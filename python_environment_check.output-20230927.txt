@@ -1,0 +1,6 @@
+[OK] Your Python version is 3.11.4 (main, Jun  9 2023, 07:59:55) [GCC 12.3.0]
+[OK] numpy 1.24.2
+[OK] scipy 1.10.1
+[OK] matplotlib 3.5.2
+[OK] sklearn 1.2.1
+[OK] pandas 1.5.3
